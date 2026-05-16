@@ -1,0 +1,14 @@
+D:\Document\hoclaptrinh\LAB\LAB\bin\Debug\net10.0\LAB.exe
+D:\Document\hoclaptrinh\LAB\LAB\bin\Debug\net10.0\LAB.deps.json
+D:\Document\hoclaptrinh\LAB\LAB\bin\Debug\net10.0\LAB.runtimeconfig.json
+D:\Document\hoclaptrinh\LAB\LAB\bin\Debug\net10.0\LAB.dll
+D:\Document\hoclaptrinh\LAB\LAB\bin\Debug\net10.0\LAB.pdb
+D:\Document\hoclaptrinh\LAB\LAB\obj\Debug\net10.0\LAB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\hoclaptrinh\LAB\LAB\obj\Debug\net10.0\LAB.AssemblyInfoInputs.cache
+D:\Document\hoclaptrinh\LAB\LAB\obj\Debug\net10.0\LAB.AssemblyInfo.cs
+D:\Document\hoclaptrinh\LAB\LAB\obj\Debug\net10.0\LAB.csproj.CoreCompileInputs.cache
+D:\Document\hoclaptrinh\LAB\LAB\obj\Debug\net10.0\LAB.dll
+D:\Document\hoclaptrinh\LAB\LAB\obj\Debug\net10.0\refint\LAB.dll
+D:\Document\hoclaptrinh\LAB\LAB\obj\Debug\net10.0\LAB.pdb
+D:\Document\hoclaptrinh\LAB\LAB\obj\Debug\net10.0\LAB.genruntimeconfig.cache
+D:\Document\hoclaptrinh\LAB\LAB\obj\Debug\net10.0\ref\LAB.dll
